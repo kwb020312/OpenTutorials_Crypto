@@ -6,7 +6,7 @@
 
 hash 알고리즘 이라고도 하는데 , 
 
-<img src="./gitImages/hashAlgorithm.PNG" />
+<img src="./gitImages/hashAlgorithm.png" />
 
 위 사진과 같이 단순히 데이터를 넣어서 암호화만을 시킬 뿐 다시 복호화를 시키진 않는다.
 
