@@ -34,4 +34,24 @@ hash 알고리즘 이라고도 하는데 ,
 
 가 된다.
 
+데이터를 보안하고 다시 필요할 때 찾아쓰는 경우에 사용된다.
+
+## 공개 키 방식
+
+공개 키 , 비밀 키 로 이루어져 있으며 공개키를 이용하여 암호화 한 정보를
+
+비밀 키 를 이용하여 복호화 한다.
+
+해당 <a href="https://www.devglan.com/online-tools/rsa-encryption-decryption">사이트</a>에 가보자
+
+Generate Key 를 하여 공개 키 , 비밀 키를 발급받는다.
+
+<img src="./gitImages/public_result.png" />
+
+공개 키를 사용하여 내가 원하고자 하는 문장을 암호화 하면 특수한 문자열이 반환되는데 이를 복사한다.
+
+<img src="./gitImages/secret_result.png" />
+
+비밀 키를 이용하여 특수한 문자열을 복호화 시키면 내가 적었던 문자열이 반환된다.
+
 
