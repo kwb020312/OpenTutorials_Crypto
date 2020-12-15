@@ -18,19 +18,19 @@ hash 알고리즘 이라고도 하는데 ,
 
 해당 <a href="https://aesencryption.net/">사이트</a> 에 들어가서 예를 보면,
 
-<img src="./gitImages/enc.jpg" />
+<img src="./gitImages/enc.png" />
 
 해당 텍스트를 128 Bit 로 MyPassword 라는 키와 같이 암호화 시키면
 
-<img src="./gitImages/enc_result.jpg" />
+<img src="./gitImages/enc_result.png" />
 
 가 나오며 이 결과를 바탕으로
 
-<img src="./gitImages/dec.jpg" />
+<img src="./gitImages/dec.png" />
 
 이 텍스트를 위와 같은 조건에서 복호화 시키면
 
-<img src="./gitImages/dec_result.jpg" />
+<img src="./gitImages/dec_result.png" />
 
 가 된다.
 
