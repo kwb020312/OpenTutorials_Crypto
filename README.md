@@ -1,3 +1,8 @@
+# Made By 생활코딩
+
+아래 수업은 생활코딩의 영상을 참고하여 작성되었음
+<img src="./gitImages/opentutorials.png" />
+
 # 암호화
 
 암호화 작업을 통해서 암호화 복호화 하는 작업을 알아보자
